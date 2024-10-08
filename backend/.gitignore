@@ -1,0 +1,31 @@
+# Virtual environment
+venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Environment variable files
+.env
+
+# VSCode settings
+.vscode/
+
+# PyCharm settings
+.idea/
+
+# PIP dependency cache
+*.lock
+*.log
+
+# Flask related files
+instance/
+*.sqlite3
+*.db
+
+# MacOS
+.DS_Store
+
+# Windows
+Thumbs.db
